@@ -113,7 +113,7 @@ WiCanary tackles these challenges by providing:
 
     
     <img width="946" height="410" alt="image" src="https://github.com/user-attachments/assets/de350506-5322-48d3-bc42-3d484b07b75e" />
-
+    <img width="940" height="389" alt="image" src="https://github.com/user-attachments/assets/6d099aed-1c52-4a2f-a266-f4df343dfb84" />
     <img width="956" height="231" alt="image" src="https://github.com/user-attachments/assets/6d5df413-22aa-410e-a19e-4940cffdd958" />
 
 
