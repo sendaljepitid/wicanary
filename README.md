@@ -111,7 +111,9 @@ WiCanary tackles these challenges by providing:
     * **Auditor/Admin:** Generate PDF reports.
     * **All Roles:** Edit own profile (change password).
 
-    <img width="951" height="414" alt="image" src="https://github.com/user-attachments/assets/0f647353-debf-4133-a108-c0287edbd694" />
+    
+    <img width="946" height="410" alt="image" src="https://github.com/user-attachments/assets/de350506-5322-48d3-bc42-3d484b07b75e" />
+
     <img width="956" height="231" alt="image" src="https://github.com/user-attachments/assets/6d5df413-22aa-410e-a19e-4940cffdd958" />
 
 
