@@ -112,6 +112,8 @@ WiCanary tackles these challenges by providing:
     * **All Roles:** Edit own profile (change password).
 
     <img width="951" height="414" alt="image" src="https://github.com/user-attachments/assets/0f647353-debf-4133-a108-c0287edbd694" />
+    <img width="956" height="231" alt="image" src="https://github.com/user-attachments/assets/6d5df413-22aa-410e-a19e-4940cffdd958" />
+
 
 
 ---
